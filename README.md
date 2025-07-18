@@ -32,7 +32,7 @@ How to Run:-
 
 Files:-
 
-wallet_scoring.py: Main script.
+wallet_scoring.py: Main script.<br>
 README.md: This file.
 analysis.md: Score distribution and wallet behavior analysis.
 score_distribution.png: Plot of score distribution.
