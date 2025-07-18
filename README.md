@@ -33,6 +33,6 @@ How to Run:-
 Files:-
 
 wallet_scoring.py: Main script.<br>
-README.md: This file.
-analysis.md: Score distribution and wallet behavior analysis.
+README.md: This file.<br>
+analysis.md: Score distribution and wallet behavior analysis.<br>
 score_distribution.png: Plot of score distribution.
